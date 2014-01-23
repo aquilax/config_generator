@@ -1,0 +1,4 @@
+name: Config File Generator
+markdown: redcarpet
+pygments: true
+baseurl: /config_generator
